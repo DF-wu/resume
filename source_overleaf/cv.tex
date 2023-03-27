@@ -46,75 +46,63 @@
 % If you would like to change the social information separator from a pipe (|) to something else
 \renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
 
-% import colume
-\usepackage{multicol}
-
 
 %-------------------------------------------------------------------------------
 %	PERSONAL INFORMATION
 %	Comment any of the lines below if they are not required
 %-------------------------------------------------------------------------------
 % Available options: circle|rectangle,edge/noedge,left/right
-% \photo[rectangle,edge,right]{./examples/profile}
-\name{ChuFei}{Wu}
-\position{Software Engineer{\enskip\cdotp\enskip}Web Service Developer}
-% \address{42-8, Bangbae-ro 15-gil, Seocho-gu, Seoul, 00681, Rep. of KOREA}
+% \photo{./examples/profile.png}
+\name{Claud D.}{Park}
+\position{Software Architect{\enskip\cdotp\enskip}Security Expert}
+\address{42-8, Bangbae-ro 15-gil, Seocho-gu, Seoul, 00681, Rep. of KOREA}
 
-% \mobile{(+82) 10-9030-1843}
-\email{df@dfder.tw}
-\homepage{https://github.com/DF-wu/resume}
-\github{DF-wu}
-\linkedin{https://www.linkedin.com/in/chufei-wu-b33990164/}
+\mobile{(+82) 10-9030-1843}
+\email{posquit0.bj@gmail.com}
+\homepage{www.posquit0.com}
+\github{posquit0}
+\linkedin{posquit0}
 % \gitlab{gitlab-id}
 % \stackoverflow{SO-id}{SO-name}
 % \twitter{@twit}
 % \skype{skype-id}
 % \reddit{reddit-id}
 % \medium{madium-id}
-% \googlescholar{xAu2IbkAAAAJ}{Chu-Fei Wu}
+% \googlescholar{googlescholar-id}{name-to-display}
 %% \firstname and \lastname will be used
 % \googlescholar{googlescholar-id}{}
 % \extrainfo{extra informations}
 
-\quote{``Learning more, interesting more."}
+\quote{``Be the change that you want to see in the world."}
+
 
 %-------------------------------------------------------------------------------
 \begin{document}
 
 % Print the header with above personal informations
 % Give optional argument to change alignment(C: center, L: left, R: right)
-\makecvheader[C]
-
-\begin{multicols}{2}
-\input{df/summary.tex}
-\columnbreak
-\input{df/skills}
-\end{multicols}
-
+\makecvheader
 
 % Print the footer with 3 arguments(<left>, <center>, <right>)
 % Leave any of these blank if they are not needed
 \makecvfooter
   {\today}
-  {ChuFei Wu~~~·~~~Résumé}
+  {Claud D. Park~~~·~~~Curriculum Vitae}
   {\thepage}
+
 
 %-------------------------------------------------------------------------------
 %	CV/RESUME CONTENT
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
-
-\input{df/experience.tex}
-% \input{df/honors.tex}
-\input{df/presentation.tex}
-% \input{df/writing.tex}
-% \input{df/committees.tex}
-
-\input{df/education.tex}
-
-\input{df/extracurricular.tex}
-
-
+\input{cv/education.tex}
+\input{cv/skills.tex}
+\input{cv/experience.tex}
+\input{cv/extracurricular.tex}
+\input{cv/honors.tex}
+\input{cv/presentation.tex}
+\input{cv/writing.tex}
+\input{cv/committees.tex}
 
 
 %-------------------------------------------------------------------------------
