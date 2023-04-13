@@ -392,7 +392,7 @@
 \newcommand{\acvHeaderIconSep}{\space}
 \newcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
 \newcommand{\acvHeaderAfterSocialSkip}{2mm}
-\newcommand{\acvHeaderAfterQuoteSkip}{1mm}
+\newcommand{\acvHeaderAfterQuoteSkip}{.5mm}
 
 % Others
 \newcommand{\acvSectionTopSkip}{2mm}
@@ -654,7 +654,7 @@
 \newenvironment{cvskills}{%
   \vspace{\acvSectionContentTopSkip}
   \vspace{-2.0mm}
-  \begin{left}
+  \begin{center}
     \setlength\tabcolsep{1ex}
     \setlength{\extrarowheight}{0pt}
     \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} r L{\textwidth * \real{0.9}}}

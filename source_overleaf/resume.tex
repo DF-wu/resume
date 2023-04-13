@@ -71,12 +71,12 @@
 % \skype{skype-id}
 % \reddit{reddit-id}
 % \medium{madium-id}
-% \googlescholar{xAu2IbkAAAAJ}{Chu-Fei Wu}
+\googlescholar{xAu2IbkAAAAJ}{Chu-Fei Wu}
 %% \firstname and \lastname will be used
 % \googlescholar{googlescholar-id}{}
 % \extrainfo{extra informations}
 
-\quote{``Learning more, interesting more."}
+% \quote{``If I have seen further, it is by standing on the shoulders of giants."}
 
 %-------------------------------------------------------------------------------
 \begin{document}
@@ -85,11 +85,8 @@
 % Give optional argument to change alignment(C: center, L: left, R: right)
 \makecvheader[C]
 
-\begin{multicols}{2}
-\input{df/summary.tex}
-\columnbreak
-\input{df/skills}
-\end{multicols}
+
+
 
 
 % Print the footer with 3 arguments(<left>, <center>, <right>)
@@ -103,14 +100,22 @@
 %	CV/RESUME CONTENT
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
+% \input{df/summary.tex}
 
-\input{df/experience.tex}
+\input{df/skills}
+
+
+% \input{df/Contribution}
+
+\input{df/education.tex}
+
 % \input{df/honors.tex}
-\input{df/presentation.tex}
+\input{df/projects.tex}
+\input{df/experience.tex}
 % \input{df/writing.tex}
 % \input{df/committees.tex}
 
-\input{df/education.tex}
+
 % \input{df/extracurricular.tex}
 
 
