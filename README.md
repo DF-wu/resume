@@ -1,3 +1,3 @@
 # My Resume
-+ [Download here](CHUFEIWU_CV.pdf)
++ [Hit me download PDF](CHUFEIWU_CV.pdf)
 ![](CHUFEIWU_CV.png)
