@@ -12,7 +12,7 @@ For my personality, I am an open-minded, communicative and collaborative person 
 
 Throughout my academic journey, I have acquired a range of skills that a competent Computer Science graduate should possess. Meanwhile, I have developed and maintained a Discord bot for my college community, which serves as a valuable web service for its users. Furthermore, I have successfully collaborated with classmates using software engineering methodologies, gaining practical experience beyond the scope of my coursework.
 
-In my master degree program, I studied in event-driven microservices and testing methods for it. Meanwhile, I was finished some project with my friends when we collaborated with Industrial Technology Research Institute ,ITRI (工研院). These projects are about personal data authorization and the mechanism of ensuring security, reliability, transparency and undeniable.
+In my master degree program, I studied in event-driven microservices and testing methods for it. Meanwhile, I was finished some project with my friends when we collaborated with Industrial Technology Research Institute, ITRI (工研院). These projects are about personal data authorization and the mechanism of ensuring security, reliability, transparency and undeniable.
 
 In addition to my studies, I also took on the role of club leader in our university's archery club. This experience allowed me to develop leadership and organizational skills, further enhancing my ability to work effectively in a team environment.
 
