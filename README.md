@@ -6,7 +6,7 @@
 ## Self-promotion
 Dear HR,
 
-Thank you for your considering foy my application.  I appreciate the opportunity.
+Thank you for your considering for my application.  I appreciate the opportunity.
 
 I, ChuFei Wu, graduated from the department of Computer Science, National Taiwan Ocean University with Master of Science degree.
 
@@ -24,5 +24,4 @@ My resume: https://github.com/DF-wu/resume
 e-mail: df@dfder.tw or a2470abc@gmail.com
 mobile: +886-910002132 
 
-Sincerely, 
-ChuFei WU
+Sincerely, ChuFei WU
