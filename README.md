@@ -26,5 +26,5 @@ My resume: https://github.com/DF-wu/resume
 e-mail: df@dfder.tw or a2470abc@gmail.com
 mobile: +886-910002132
 
-Sincerely, 
+Sincerely,
 ChuFei WU
