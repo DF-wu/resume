@@ -6,7 +6,7 @@
 ## Self-promotion
 Dear HR,
 
-Thank you for your considering for my application.  I appreciate the opportunity.
+Thank you for considering my application.  I appreciate the opportunity.
 
 I, ChuFei Wu, graduated from the department of Computer Science, National Taiwan Ocean University with Master of Science degree.
 
@@ -18,10 +18,13 @@ In my master degree program, I studied in event-driven microservices and testing
 
 In addition to my studies, I also took on the role of club leader in our university's archery club. This experience allowed me to develop leadership and organizational skills, further enhancing my ability to work effectively in a team environment.
 
+I believe that my skills and experiences align well with your requirements, and I am eager to move to the next stage of the process. 
+
 I have attached my resume for your review and would greatly appreciate the opportunity to discuss how my qualifications align with the requirements of the position. I look forward to hearing from you soon.
 
 My resume: https://github.com/DF-wu/resume
 e-mail: df@dfder.tw or a2470abc@gmail.com
 mobile: +886-910002132 
 
-Sincerely, ChuFei WU
+Sincerely, 
+ChuFei WU
